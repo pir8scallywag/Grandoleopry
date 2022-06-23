@@ -40,9 +40,10 @@ The following image demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application:
+https://pir8scallywag.github.io/Grandoleopry/03-JavaScript/02-Challenge/Assets/Assets/index.html
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+https://github.com/pir8scallywag/Grandoleopry/blob/main/03-JavaScript/02-Challenge/Assets/Assets/index.html
 
 
